@@ -1,4 +1,4 @@
-# PythonWorkshopCursoVeraoUSP2018
+# Python Workshop - Curso de Verao - USP 2018
 
 Este repositório apresenta:
 
