@@ -1,6 +1,6 @@
 # PythonWorkshopCursoVeraoUSP2018
 
-Este repositório apresentar:
+Este repositório apresenta:
 
 * Material/TeoriaEPratica_PythonWorkshop_CursoVeraoUSP_2018.pdf
 Apostila com o guia das atividades realizadas durante o workshop, incluindo os conceitos básicos sobre programação usando python, sua sintaxe, estruturas de dados e comandos.
